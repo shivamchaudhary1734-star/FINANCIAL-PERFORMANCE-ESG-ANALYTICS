@@ -12,6 +12,7 @@
 The dataset includes company information, industry, region, year, revenue, profit margin, market capitalization, growth rate, ESG scores, carbon emissions, water usage, and energy consumption.
 
 Business Questions
+
 Which companies generate the highest revenue?
 Which industries have the best average profit margins?
 How does revenue change year over year?
