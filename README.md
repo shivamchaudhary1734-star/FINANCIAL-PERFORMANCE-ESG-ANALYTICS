@@ -42,6 +42,9 @@ Dashboard
 
 The Power BI dashboard presents financial performance, profitability, revenue trends, and ESG indicators.
 
+Image:-<img width="926" height="549" alt="Screenshot 2026-10-14 014413" src="https://github.com/user-attachments/assets/afe8edce-3ce7-4be7-9e47-436c7882c2ba" />
+
+
 Conclusion
 
 The project demonstrates how Python, SQL, and Power BI can be used together to analyze financial performance and sustainability indicators and support data-driven business decisions.
